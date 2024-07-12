@@ -1,0 +1,27 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/home/bonam/Área de trabalho/manjaro.sh]
+row=3
+col=0
+
+[/home/bonam/Área de trabalho/linux-config]
+row=5
+col=0
+
+[/home/bonam/Área de trabalho/devtools.sh]
+row=4
+col=0
+
+[Lixeira]
+row=0
+col=0
+
+[/]
+row=1
+col=0
+
+[/home/bonam]
+row=2
+col=0
+
